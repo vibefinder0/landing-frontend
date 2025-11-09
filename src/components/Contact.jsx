@@ -9,7 +9,7 @@ function Contact({ id }) {
           Parliamo delle tue esigenze
         </h2>
         <p className="mx-auto max-w-2xl text-lg leading-relaxed text-slate-600">
-          Vuoi portare il tuo marketplace di servizi a un nuovo livello? Scrivici, raccontaci cosa
+          Vuoi portare i tuoi servizi a un nuovo livello? Scrivici, raccontaci cosa
           stai cercando e ti rispondiamo in meno di 24 ore.
         </p>
         <div className="pt-2">
